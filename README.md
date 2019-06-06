@@ -1,4 +1,4 @@
-### tecent
+### tencent
 ---
 https://github.com/Tencent
 
